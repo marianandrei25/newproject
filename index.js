@@ -33,7 +33,7 @@ let alterStyles = (isBackToTopRendered) => {
 };
 
 const quotes = [ 
-    { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" }, 
+    { text: "We suffer more in imagination than in reality.", author: "Seneca" }, 
     { text: "You have power over your mind—not outside events. Realize this, and you will find strength.", author: "Marcus Aurelius" }, 
     { text: "Get busy living or get busy dying.", author: "Stephen King" }, 
     { text: "You have to be odd to be number one.", author: "Dr. Seuss" }, 
