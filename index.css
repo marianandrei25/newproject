@@ -292,6 +292,13 @@ body:not(.user-is-tabbing) a:focus {
     background: var(--pink);
 }
 
+.flex-container {
+    display: flex;
+    
+    align-items: center;
+}
+
+
 .link__text span {
     padding-left: 1rem;
     font-family: sans-serif;
