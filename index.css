@@ -542,11 +542,7 @@ body:not(.user-is-tabbing) a:focus {
 /* ----- About ----- */
 /* --------------------------------------- */
 
-.about__content {
-    display: flex;
-  
-    align-items: center;
-}
+
 
 @media(max-width: 900px) {
     .about__content {
