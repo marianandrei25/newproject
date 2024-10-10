@@ -33,12 +33,15 @@ let alterStyles = (isBackToTopRendered) => {
 };
 
 const quotes = [ 
-    { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" }, 
+    { text: "External things are not the problem. It’s your assessment of them. Which you can erase right now.", author: "Marcus Aurelius" }, 
     { text: "You have power over your mind—not outside events. Realize this, and you will find strength.", author: "Marcus Aurelius" }, 
-    { text: "Get busy living or get busy dying.", author: "Stephen King" }, 
-    { text: "You have to be odd to be number one.", author: "Dr. Seuss" }, 
-    { text: "The future belongs to those who believe in the beauty of their dreams.", author: "Eleanor Roosevelt", explanation: "Explanation: Quote produced today"}, 
-    // Add more quotes as needed 
+    { text: "Be tolerant with others and strict with yourself.", author: "Marcus Aurelius" }, 
+    { text: "We are more often frightened than hurt; and we suffer more in imagination than in reality.", author: "Seneca" }, 
+    { text: "No person has the power to have everything they want, but it is in their power not to want what they don’t have, and to cheerfully put to good use what they do have.", author: "Seneca", explanation: "Explanation: Quote produced today"}, 
+    { text: "Don’t seek for everything to happen as you wish it would, but rather wish that everything happens as it actually will—then your life will flow well.", author: "Epictetus" }, 
+    { text: "First say to yourself what you would be; and then do what you have to do.", author: "Epictetus" }, 
+    { text: "I begin to speak only when I’m certain what I’ll say isn’t better left unsaid.", author: "Cato" }, 
+  // Add more quotes as needed 
 ]; 
  
 function displayQuote() { 
